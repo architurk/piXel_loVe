@@ -1,6 +1,11 @@
 {
    "wallpapers": [      
       {
+         "author": "caveman",
+         "url": "https://github.com/architurk/ad_xp/raw/master/super_mario_desktop01.jpg",
+         "name":"Super Mario Desktop 01"
+      },
+      {
          "author": "architurk",
          "url": "https://raw.githubusercontent.com/architurk/pixel_love/master/pixel_love_01.jpg ",
          "name": "Super Mario Desktop 01"
