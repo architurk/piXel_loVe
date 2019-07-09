@@ -1,10 +1,16 @@
 {
    "wallpapers": [      
+       {
+         "author": "architurk",
+         "url": "https://raw.githubusercontent.com/architurk/ad_xp/master/adxp_super_mario_wallpaper01.jpg",
+         "name": "ADXP Super Mario 01"
+      },     
       {
          "author": "architurk",
-         "url": "https://github.com/architurk/pixel_love/raw/master/pixel_love_01.jpg ",
+        "url": "https://raw.githubusercontent.com/architurk/pixel_love/master/pixel_love_01.jpg ",
          "name": "Super Mario Desktop 01"
       },
+
       {
          "author": "architurk",
          "url": "https://raw.githubusercontent.com/architurk/pixel_love/master/pixel_love_02.jpg ",
