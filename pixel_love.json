@@ -1,32 +1,31 @@
 {
    "wallpapers": [      
-       {
+      {
          "author": "architurk",
          "url": "https://raw.githubusercontent.com/architurk/ad_xp/master/adxp_super_mario_wallpaper01.jpg",
          "name": "ADXP Super Mario 01"
-      },     
-      {
-         "author": "architurk",
-        "url": "https://raw.githubusercontent.com/architurk/pixel_love/master/pixel_love_01.jpg ",
-         "name": "Super Mario Desktop 01"
-      },
-
-      {
-         "author": "architurk",
-         "url": "https://raw.githubusercontent.com/architurk/pixel_love/master/pixel_love_02.jpg ",
-         "name": "Super Mario Desktop 02"
       },
       {
          "author": "architurk",
-         "url": "https://raw.githubusercontent.com/architurk/pixel_love/master/pixel_love_03.jpg ",
-         "name": "Drive and Jump wallpaper01"
+         "url": "https://raw.githubusercontent.com/architurk/ad_xp/master/adxp_super_mario_wallpaper02.jpg",
+         "name": "ADXP super Mario 02"
       },
       {
          "author": "architurk",
-         "url": "https://raw.githubusercontent.com/architurk/pixel_love/master/pixel_love_04.jpg ",
-         "name": "Space Invaders 01"
-      }
-            {
+         "url": "https://raw.githubusercontent.com/architurk/ad_xp/master/adxp_space_invaders_wallpaper01.jpg",
+         "name": "ADXP Space Invaders 01"
+      },
+      {
+         "author": "architurk",
+         "url": "https://raw.githubusercontent.com/architurk/ad_xp/master/adxp_space_invaders_wallpaper02.jpg",
+         "name": "ADXP Space Invaders 02"
+      },
+      {
+         "author": "architurk",
+         "url": "https://raw.githubusercontent.com/architurk/ad_xp/master/adxp_drive_and_jump_wallpaper01.jpg",
+         "name": "ADXP Drive and Jump 01"
+      },
+      {
          "author": "supermanosbros",
          "url": "https://raw.githubusercontent.com/architurk/ad_xp/master/8bit_beach_sunny01.jpg",
          "name": "Sunny Beach 01"
@@ -78,4 +77,3 @@
       }
    ]
 }
-
