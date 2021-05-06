@@ -1,6 +1,5 @@
-{
-   "wallpapers": [      
-      {
+[
+	{
          "author": "architurk",
          "url": "https://raw.githubusercontent.com/architurk/piXel_loVe/master/pixel_love_01.jpg",
          "name": "piXel loVe Super Mario 01"
@@ -19,56 +18,5 @@
          "author": "architurk",
          "url": "https://raw.githubusercontent.com/architurk/piXel_loVe/master/pixel_love_04.jpg",
          "name": "piXel loVe Space Invaders"
-      },
-      {
-         "author": "supermanosbros",
-         "url": "https://raw.githubusercontent.com/architurk/ad_xp/master/8bit_beach_sunny01.jpg",
-         "name": "Sunny Beach 01"
-      },
-      {
-         "author": "supermanosbros",
-         "url": "https://raw.githubusercontent.com/architurk/ad_xp/master/8bit_beach_sunny02.jpg",
-         "name": "Sunny Beach 02"
-      },
-      {
-         "author": "caveman",
-         "url": "https://github.com/architurk/ad_xp/raw/master/super_mario_desktop01.jpg",
-         "name":"Super Mario Desktop 01"
-      },
-      {
-         "author": "caveman",
-         "url": "https://github.com/architurk/ad_xp/raw/master/super_mario_desktop02.jpg",
-         "name": "Super Mario Desktop 02"
-      },
-      {
-         "author": "caveman",
-         "url": "https://github.com/architurk/ad_xp/raw/master/super_mario_desktop03.jpg",
-         "name": "Super Mario Desktop 03"
-      },
-      {
-         "author": "caveman",
-         "url": "https://github.com/architurk/ad_xp/raw/master/super_mario_desktop04.jpg",
-         "name": "Super Mario Desktop 04"
-      },
-      {
-         "author": "caveman",
-         "url": "https://github.com/architurk/ad_xp/raw/master/super_mario_desktop05.jpg",
-         "name": "Super Mario Desktop 05"
-      },
-      {
-         "author":"Super Mario Bros",
-         "url":"https://github.com/architurk/ad_xp/raw/master/super_mario_wallpaper01.jpg",
-         "name":"Super Mario Wallpaper 01"
-      },
-      {
-         "author":"Super Mario Bros",
-         "url":"https://github.com/architurk/ad_xp/raw/master/super_mario_wallpaper02.jpg",
-         "name":"Super Mario Wallpaper 02"
-      },
-      {
-         "author":"Super Mario Bros",
-         "url":"https://github.com/architurk/ad_xp/raw/master/super_mario_wallpaper03.jpg",
-         "name":"Super Mario Wallpaper 03"
-      }
-   ]
-}
+	}
+]
